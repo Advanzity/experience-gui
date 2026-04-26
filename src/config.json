@@ -1,0 +1,44 @@
+{
+    "config": {
+        "language": "en-US",
+        "version": "0"
+    },
+
+
+    "users": {
+        "461913091362258954": {
+            "username": "David",
+            "tag": "1041",
+            "role": "User/Moderator/Admin/Developer",
+            "friends": 0,
+            "servers": 0,
+            "prefix": "!",
+            "owned_plugins": "478035829|409592355"
+        }
+    },
+
+    "plugins": {
+        "478035829": {
+            "authorid": "461913091362258954",
+            "title": "Example 1",
+            "description": "...",
+            "size": 10,
+            "catagory": "Theme",
+            "version": "0.0.0",
+            "safety_rating": 10,
+            "cover_image": "...",
+            "executable": "..."
+        },
+        "409592355": {
+            "authorid": "461913091362258954",
+            "title": "Example 2",
+            "description": "...",
+            "size": 42,
+            "catagory": "Command",
+            "version": "0.0.0",
+            "safety_rating": 10,
+            "cover_image": "...",
+            "executable": "..."
+        }
+    }
+}
